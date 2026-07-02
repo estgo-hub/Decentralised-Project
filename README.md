@@ -47,11 +47,6 @@ Challenges **4 and 5** are DEFCON Quals challenges (feedme from 2016, babyheap f
 
 The binaries for these tiers are named `feedme` and `babyheap`.
 
----
-
-## Reports
-
-The `Reports` folder contains the feedback and solving attempts from the different free AI models that were tested (ChatGPT, Claude, DeepSeek, Gemini).
 
 ---
 
